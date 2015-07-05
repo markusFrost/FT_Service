@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="funnytime.ru.whitemonkteam.funny_time.funnytime.SecondActivity">
+
+    <item android:id="@+id/menuShowNews"
+        android:title="@string/action_settings"
+        android:icon="@android:drawable/ic_menu_agenda"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/menuShowUsers"
+        android:title="@string/action_settings"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        app:showAsAction="always" />
+</menu>
