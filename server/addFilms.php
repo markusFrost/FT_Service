@@ -1,9 +1,6 @@
 <?php
-// Это для сервака
-/*mysql_connect("sql103.byethost7.com","b7_16207375","byethostwm16") or  die(mysql_error());
-mysql_select_db("b7_16207375_funny_time");*/
-/*mysql_connect("localhost","root","");
-mysql_select_db("b7_16207375_funny_time")*/
+
+
 
 
 
